@@ -1,0 +1,4 @@
+- [Home](/)
+- [How It Works](how-it-works.md)
+- [Getting Started](getting-started.md)
+- [FAQs](faq.md)
