@@ -8,6 +8,7 @@ Welcome to Mystic ACO. This is a in-depth guide on how the server works.
 
 ## Overview
 - At Mystic ACO, our goal is simple: to help you secure the most limited and hyped items—stress-free.
+  
 - When you sign up for our Auto-Checkout (ACO) service, you’re letting us handle the heavy lifting on drop day. Just sit back and relax—we only charge you if we successfully secure the item for you. No success, no fee.
 
 ---
