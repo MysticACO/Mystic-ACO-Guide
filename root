@@ -1,5 +1,6 @@
-/ (root)
-├── index.html         ✅ Needed to load Docsify
-├── _sidebar.md        ✅ For sidebar navigation
-├── how-it-works.md    ← Example markdown file
-├── getting-started.md ← Another markdown file
+index.html
+_sidebar.md
+how-it-works.md
+getting-started.md
+FAQ.md
+README.md (optional)
